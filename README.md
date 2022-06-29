@@ -8,7 +8,8 @@
 - **🥅 Goals : Contribute more to Open Source projects.**
 - **🤝 Connect with me :** [LinkedIn](www.linkedin.com/in/vijayaggidi)
 - **👬👩🏾‍🤝‍🧑🏼 Reach me**: [Gmail]( vzay1999@gmail.com)
-- **Fun** : *When teacher calls you to write an answer on **blackboard** but suddenly bel rings* 
+- **Fun** : *When teacher calls you to write an answer on **blackboard** but suddenly bel rings😎.* 
+
 
 ### 🛠 Languages and Tools :
 <div>
