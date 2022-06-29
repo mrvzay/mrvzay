@@ -6,7 +6,7 @@
 - 📖 **I'm currenly exploring and learning new things in technologys like** : [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning),  [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) **and** [PyTorch](https://pytorch.org/)
 - **👀 I'm looking to collaborate with other content creators.**
 - **🥅 Goals : Contribute more to Open Source projects.**
-- **🤝 Connect with me :** [LinkedIn](www.linkedin.com/in/vijayaggidi)
+- **🤝 Connect with me :** www.linkedin.com/in/vijayaggidi
 - **👬👩🏾‍🤝‍🧑🏼 Reach me**: vzay1999@gmail.com
 - **Fun** : *When teacher calls you to write an answer on **blackboard** but suddenly bel rings😎.* 
 
