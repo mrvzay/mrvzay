@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi, I'm Vijay
 </h1>
-<h2> I'm self thought programmer and am working with Deep learning professional, passionate about solving real world problems, with strong knowledge in python and TensorFlow & keras and Machine learning algorithoms.</h2>
+<h2> I'm self thought programmer and am working with Deep learning professional, passionate about solving real world problems, with strong knowledge in python and TensorFlow & keras and Machine learning algorithms.</h2>
 
 - 📖 **I'm currenly exploring and learning new things in technologys like** : [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning),  [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) **and** [PyTorch](https://pytorch.org/)
 - **👀 I'm looking to collaborate with other content creators.**
